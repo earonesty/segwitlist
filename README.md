@@ -20,3 +20,4 @@ Exchange Home Page | P2SH? | BECH32?
 ------------ | ------------- | --------------
 <!-- https://www.coinbase.com | No | No -->
 
+* Edit this list here : https://github.com/earonesty/segwitlist

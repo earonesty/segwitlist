@@ -3,22 +3,23 @@
 Wallet Home Page | P2SH? | BECH32?
 ------------ | ------------- | --------------
 <https://samouraiwallet.com/> | Yes | Yes
-https://greenaddress.it/en/ | Yes | Yes
-https://electrum.org/ | No | Yes
+<https://greenaddress.it/en/> | Yes | Yes
+<https://electrum.org/> | No | Yes
 
 ## List of Exchanges with Segwit  Support
 
 Exchange Home Page | P2SH? | BECH32? | Withdrawal | Deposit
 ------------ | ------------- | -------------- | -------- | --------
-https://www.bitstamp.net | Yes | ? | Yes | Yes
-https://www.gdax.com | Yes | No | Yes | No
-https://www.bitfinex.com | Yes | No | Yes | No
+<https://www.bitstamp.net> | Yes | ? | Yes | Yes
+<https://www.gdax.com> | Yes | No | Yes | No
+<https://www.bitfinex.com> | Yes | No | Yes | No
 <https://hitbtc.com/> | Yes | No | Yes | Yes
+<https://shapeshift.com/> | Yes | No | Yes | Yes
 
-## List of Exchange Hosted Wallets which Generate Segwit by Default
+## Other Bitcoin Related Sites / Merchants, Etc/
 
 Exchange Home Page | P2SH? | BECH32?
 ------------ | ------------- | --------------
-<!--- https://www.coinbase.com | No | No --->
+<!--- <https://www.coinbase.com> | No | No --->
 
 * Please, edit this list here : https://github.com/earonesty/segwitlist

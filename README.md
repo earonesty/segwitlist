@@ -13,6 +13,7 @@ Exchange Home Page | P2SH? | BECH32?
 https://www.bitstamp.net | Yes | ?
 https://www.gdax.com | Yes | No
 https://www.bitfinex.com | Yes | No
+<https://hitbtc.com/> | Yes | No
 
 ## List of Exchange Hosted Wallets which Generate Segwit by Default
 
@@ -20,4 +21,4 @@ Exchange Home Page | P2SH? | BECH32?
 ------------ | ------------- | --------------
 <!--- https://www.coinbase.com | No | No --->
 
-* Edit this list here : https://github.com/earonesty/segwitlist
+* Please, edit this list here : https://github.com/earonesty/segwitlist

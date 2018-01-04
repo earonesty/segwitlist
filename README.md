@@ -2,7 +2,7 @@
 
 Wallet Home Page | P2SH? | BECH32?
 ------------ | ------------- | --------------
-https://samouraiwallet.com/ | Yes | Yes
+<https://samouraiwallet.com/> | Yes | Yes
 https://greenaddress.it/en/ | Yes | Yes
 https://electrum.org/ | No | Yes
 
@@ -18,6 +18,6 @@ https://www.bitfinex.com | Yes | No
 
 Exchange Home Page | P2SH? | BECH32?
 ------------ | ------------- | --------------
-<!-- https://www.coinbase.com | No | No -->
+<!--- https://www.coinbase.com | No | No --->
 
 * Edit this list here : https://github.com/earonesty/segwitlist

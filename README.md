@@ -18,7 +18,7 @@ Exchange Home Page | P2SH? | BECH32? | Withdrawal | Deposit
 
 ## Other Bitcoin Related Sites / Merchants, Etc/
 
-Exchange Home Page | P2SH? | BECH32?
+Home Page | P2SH? | BECH32?
 ------------ | ------------- | --------------
 
 

@@ -1,10 +1,14 @@
 ## List of Wallets with Segwit Support
 
-Wallet Home Page | P2SH? | BECH32?
------------- | ------------- | --------------
-<https://samouraiwallet.com/> | Yes | Yes
-<https://greenaddress.it/en/> | Yes | Yes
-<https://electrum.org/> | No | Yes
+Type | Wallet Home Page | P2SH? | BECH32?
+---------- | ------------ | ------------- | --------------
+Mobile | <https://samouraiwallet.com/> | Yes | Yes
+Mobile | <https://greenaddress.it/en/> | Yes | Yes
+Mobile | <https://electrum.org/> | No | Yes
+Desktop | <https://www.bitcoinarmory.com> | Yes | Yes
+Hardware | <https://wallet.trezor.io> | Yes | No
+Hardware | <https://www.ledgerwallet.com/> | Yes | No
+
 
 ## List of Exchanges with Segwit  Support
 

@@ -18,5 +18,5 @@ https://www.bitfinex.com | Yes | No
 
 Exchange Home Page | P2SH? | BECH32?
 ------------ | ------------- | --------------
-https://www.coinbase.com | No | No
+<!-- https://www.coinbase.com | No | No -->
 

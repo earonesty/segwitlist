@@ -9,7 +9,7 @@ https://electrum.org/ | No | Yes
 ## List of Exchanges with Segwit  Support
 
 Exchange Home Page | P2SH? | BECH32? | Withdrawal | Deposit
------------- | ------------- | --------------
+------------ | ------------- | -------------- | -------- | --------
 https://www.bitstamp.net | Yes | ? | Yes | Yes
 https://www.gdax.com | Yes | No | Yes | No
 https://www.bitfinex.com | Yes | No | Yes | No

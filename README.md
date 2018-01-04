@@ -6,14 +6,14 @@ Wallet Home Page | P2SH? | BECH32?
 https://greenaddress.it/en/ | Yes | Yes
 https://electrum.org/ | No | Yes
 
-## List of Exchanges with Segwit Withdrawal Support
+## List of Exchanges with Segwit  Support
 
-Exchange Home Page | P2SH? | BECH32?
+Exchange Home Page | P2SH? | BECH32? | Withdrawal | Deposit
 ------------ | ------------- | --------------
-https://www.bitstamp.net | Yes | ?
-https://www.gdax.com | Yes | No
-https://www.bitfinex.com | Yes | No
-<https://hitbtc.com/> | Yes | No
+https://www.bitstamp.net | Yes | ? | Yes | Yes
+https://www.gdax.com | Yes | No | Yes | No
+https://www.bitfinex.com | Yes | No | Yes | No
+<https://hitbtc.com/> | Yes | No | Yes | Yes
 
 ## List of Exchange Hosted Wallets which Generate Segwit by Default
 

@@ -25,5 +25,8 @@ Exchange Home Page | P2SH? | BECH32? | Withdrawal | Deposit
 Home Page | P2SH? | BECH32?
 ------------ | ------------- | --------------
 
+## Segwit Utilization Chart
+
+<http://segwit.party/charts>
 
 * Please, edit this list here : https://github.com/earonesty/segwitlist

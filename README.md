@@ -20,6 +20,6 @@ Exchange Home Page | P2SH? | BECH32? | Withdrawal | Deposit
 
 Exchange Home Page | P2SH? | BECH32?
 ------------ | ------------- | --------------
-<!--- <https://www.coinbase.com> | No | No --->
+
 
 * Please, edit this list here : https://github.com/earonesty/segwitlist

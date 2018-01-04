@@ -14,7 +14,7 @@ Exchange Home Page | P2SH? | BECH32? | Withdrawal | Deposit
 <https://www.gdax.com> | Yes | No | Yes | No
 <https://www.bitfinex.com> | Yes | No | Yes | No
 <https://hitbtc.com/> | Yes | No | Yes | Yes
-<https://shapeshift.com/> | Yes | No | Yes | Yes
+<https://shapeshift.io/> | Yes | No | Yes | Yes
 
 ## Other Bitcoin Related Sites / Merchants, Etc/
 

@@ -20,11 +20,6 @@ Exchange Home Page | P2SH? | BECH32? | Withdrawal | Deposit
 <https://hitbtc.com/> | Yes | No | Yes | Yes
 <https://shapeshift.io/> | Yes | No | Yes | Yes
 
-## Other Bitcoin Related Sites / Merchants, Etc/
-
-Home Page | P2SH? | BECH32?
------------- | ------------- | --------------
-
 ## Segwit Utilization Chart
 
 <http://segwit.party/charts>

@@ -6,7 +6,7 @@ Mobile | <https://samouraiwallet.com/> | Yes | Yes
 Mobile | <https://greenaddress.it/en/> | Yes | Yes
 Mobile | <https://electrum.org/> | No | Yes
 Desktop | <https://www.bitcoinarmory.com> | Yes | Yes
-Hardware | <https://wallet.trezor.io> | Yes | No
+Hardware | <https://trezor.io> | Yes | No
 Hardware | <https://www.ledgerwallet.com/> | Yes | No
 
 

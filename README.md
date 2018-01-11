@@ -19,6 +19,9 @@ Exchange Home Page | P2SH? | BECH32? | Withdrawal | Deposit
 <https://www.bitfinex.com> | Yes | No | Yes | No
 <https://hitbtc.com/> | Yes | No | Yes | Yes
 <https://shapeshift.io/> | Yes | No | Yes | Yes
+<https://shapeshift.io/> | Yes | No | Yes | Yes
+<https://www.kraken.com/> | Yes | No | Yes | Yes
+<https://localbitcoins.com/> | Yes | Yes | Yes | Yes
 
 ## Segwit Utilization Chart
 

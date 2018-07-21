@@ -2,6 +2,7 @@
 
 Type | Wallet Home Page | P2SH? | BECH32?
 ---------- | ------------ | ------------- | --------------
+Mobile | <https://coinomi.com> | Yes | Yes
 Mobile | <https://samouraiwallet.com/> | Yes | Yes
 Mobile | <https://greenaddress.it/en/> | Yes | Yes
 Mobile | <https://electrum.org/> | No | Yes
